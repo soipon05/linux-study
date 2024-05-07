@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  linux:
+    image: ubuntu:latest
+    container_name: linux_study
+    tty: true
+
